@@ -1,7 +1,3 @@
-name: Raoyin Chen, Hezhi Wang
-x500: chen3593, wang5575
-CSELabs machine: lind40-27
-
 The purpose of the program:
 
 Our main program codec_4061 will be responsible for encoding/decoding all files present in the given input directory using the given scheme.
